@@ -1,0 +1,10 @@
+{
+  "description": "Servicios web y API de Prodispro",
+  "owner": {
+    "username": "JMVillota",
+    "email": "jeffersonvillota@gmail.com"
+  },
+  "record": {
+    "URL": "http://181.112.37.94:8090"
+  }
+}
