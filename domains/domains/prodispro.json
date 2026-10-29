@@ -5,6 +5,9 @@
     "email": "jeffersonvillota@gmail.com"
   },
   "record": {
-    "URL": "http://181.112.37.94"
+    "A": ["181.112.37.94"]
+  },
+  "cloudflare": {
+    "proxy": false
   }
 }
